@@ -16,7 +16,7 @@ The project uses Python for data cleaning and Exploratory Data Analysis (EDA), a
 - Microsoft Power BI
 ## 📸 Dashboard Preview
 
-![Online Bookstore Dashboard](dashboard.png)
+![Online Bookstore Dashboard](/dashboard.png)
 ## 📂 Dataset Overview
 
 The project includes three datasets:
